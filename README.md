@@ -1,4 +1,4 @@
-<h4 align="center" id="begin"><samp>• HI, I'm <b><a>Jefri Jaya</a> •</b></h4>
+<h1 align="center" id="begin"><samp>• HI, I'm <b><a>Jefri Jaya</a> •</b></h1>
 
 <br />
 
